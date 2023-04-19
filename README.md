@@ -1,2 +1,2 @@
 # myRepo
-My first repository
+My first repository due to ignite purposes
